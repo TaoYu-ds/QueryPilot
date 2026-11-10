@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+.python311/
+.node/
+.downloads/
+
+# 运行期产物：索引、记忆、会话归档、本地库
+backend/data/*.db
+backend/data/schema_index.json
+backend/data/schema_store.json
+backend/data/saved_memories.json
+
+# 本地配置
+backend/.env
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# 工具与系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
