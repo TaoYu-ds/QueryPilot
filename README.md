@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/preview.png" alt="QueryPilot 问数工作台" width="900">
+  <img src="docs/screenshot.png" alt="QueryPilot 问数工作台" width="900">
 </p>
 
 <p align="center">
