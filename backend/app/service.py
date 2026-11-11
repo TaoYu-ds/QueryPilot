@@ -1,5 +1,5 @@
 """兼容旧版服务导入路径。"""
 
-from .services.askmesh_service import AskMeshService
+from .services.querypilot_service import QueryPilotService
 
-__all__ = ["AskMeshService"]
+__all__ = ["QueryPilotService"]

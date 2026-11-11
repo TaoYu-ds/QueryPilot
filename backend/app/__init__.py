@@ -1,2 +1,2 @@
-"""AskMesh backend package."""
+"""QueryPilot backend package."""
 

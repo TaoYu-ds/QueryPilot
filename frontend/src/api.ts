@@ -1,7 +1,7 @@
 import type { AuthUser, LoginResponse, QueryResult, SavedMemory, SchemaField, SchemaTable, WorkspaceConfig } from "./types"
 
 const API_BASE = import.meta.env.VITE_API_BASE ?? ""
-const TOKEN_KEY = "askmesh_access_token"
+const TOKEN_KEY = "querypilot_access_token"
 
 function token() {
   return sessionStorage.getItem(TOKEN_KEY)

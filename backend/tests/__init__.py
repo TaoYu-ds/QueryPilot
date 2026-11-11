@@ -1,1 +1,1 @@
-"""AskMesh backend tests."""
+"""QueryPilot backend tests."""

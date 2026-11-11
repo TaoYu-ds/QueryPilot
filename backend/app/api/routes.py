@@ -13,11 +13,11 @@ from ..models import (
     SchemaTable,
 )
 from ..security import AuthService, AuthUser
-from ..services.askmesh_service import AskMeshService
+from ..services.querypilot_service import QueryPilotService
 
 
 router = APIRouter(prefix="/api")
-service = AskMeshService()
+service = QueryPilotService()
 auth_service = AuthService()
 
 

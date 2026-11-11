@@ -1,4 +1,4 @@
-# AskMesh
+# QueryPilot
 
 **面向短视频运营的自然语言问数工作台** · FastAPI + LangGraph + MCP + DuckDB + Vue 3
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/preview.png" alt="AskMesh 问数工作台" width="900">
+  <img src="docs/preview.png" alt="QueryPilot 问数工作台" width="900">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 运营同学要的是**能对得上的数字**，不是看起来像 SQL 的字符串。一个 41 张表的分析库，纯靠模型猜表和字段，失败方式是隐性的：SQL 能跑、结果是错的。
 
-AskMesh 把不确定性拆到三个可控环节：
+QueryPilot 把不确定性拆到三个可控环节：
 
 | 环节 | 做法 | 解决的问题 |
 |---|---|---|
